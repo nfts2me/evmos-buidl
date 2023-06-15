@@ -10,6 +10,8 @@ Our goal is to make the process of creating, deploying, and managing your NFT co
 
 **[NFTs2Me](https://nfts2me.com/)** is a user-friendly comprehensive platform to create, deploy and manage your NFT collection and community, **100% free** with advanced functionalities. It embraces the three big pillars of the NFT life cycle: creation, deployment, and administration of the contract and the community, empowering NFT creators.
 
+![nfts2me home](https://github.com/nfts2me/evmos-buidl/assets/109629895/d2b401a3-b53d-48c9-b08a-bc3e6daec859)
+
   
 
 The **creation** pillar allows users to create their own NFTs artwork using a simple and user-friendly interface. Users can upload their own artwork or other digital assets or use our builtin generative art tool, and we'll guide them through the process of creating the metadata, defining its rarity, and uploading the collection to IPFS (a decentralized immutable file system) for free.
@@ -30,6 +32,19 @@ Let's talk about some of this fantastic features that make NFTs2Me different.
 
 ## What makes NFTs2Me different?
 
+### Ways to create a new NFT Project
+
+Three types are available to make it easier for users to deploy an NFT project:
+
+ - **Editions (1 artwork – multiple NFTs)**: The easiest way to get started. With Editions, you can create an NFT collection where all NFTs share the same artwork. If you don’t have artwork yet, you can even use Artificial Intelligence to create it.
+ - **Drops (n artworks – n NFTs)**: If you already have specific images for each NFT, Drops allows you to assign different images to each NFT.
+ - **Generative Art (combination of artworks)**: This is the advanced mode. Using the Generative Art editor, you can combine image layers (even using PSD files) to generate thousands of unique NFTs.
+
+
+  
+![deploy evmos](https://github.com/nfts2me/evmos-buidl/assets/109629895/de3774e8-086a-4b8f-9856-9f8b1a2768fa)
+<div align="center">Example creating a project in Evmos with the type Edition</div>
+
 ### Artificial Intelligence to create NFTs
 
 Would you like to create a collection but don't have the artwork? We got you covered! Just a few words to create the artwork of your NFTs as well as the description using AI.
@@ -38,6 +53,11 @@ Would you like to create a collection but don't have the artwork? We got you cov
 ### Anypayments & ERC-20 mintings
 
 NFTs2Me allows to set the minting price not only in native, but also in any currency/ERC-20, and let the users mint in ERC-20 or native coin. Set a price in Native Coin (e.g. EVMOS) or ERC-20 (USDC, USDT, ATOM...). Let your users **mint your NFTs with anything** (Native or any ERC-20). We do a **transparent swap and mint** for the user in one transaction. The owner always receives in the defined payment.
+
+![erc-20 evmos](https://github.com/nfts2me/evmos-buidl/assets/109629895/696acb9f-b1d3-4216-bd41-1d9c09192adb)
+
+ERC-20 that you can select in Evmos Mainnet, you can also include any ERC-20 by entering its address.
+
 
   
 
@@ -105,6 +125,9 @@ Using our tools you'll be able to natively let your users (owner of NFTs from yo
 
 Set up a **custom mint page** with your own subdomain to mint your NFTs or embed it in your website easily using our widget. You'll be able to set your own **custom subdomain** hosted by us or use you own website/domain.
 
+![minting page evmos](https://github.com/nfts2me/evmos-buidl/assets/109629895/163de85e-188b-47c0-bd44-c313110f019a)
+<div align="center">Example of a minting page of a project deployed on Evmos</div>
+
   
 
 ### And much more!
@@ -146,6 +169,8 @@ More info at: https://medium.com/evmos/introducing-evmos-erc20-module-f40a61e052
 
 We've integrated with [ESCAN](https://escan.live/) and verified our contracts (links below). Also, we've been helping to Victor from ESCAN to add a feature to allow minimal proxies to be automatically verified as well as 'paris' compilations support. Victor added both features in an incredible time! Kudos!
 
+
+![escan-live](https://github.com/nfts2me/evmos-buidl/assets/109629895/c2f9c0dc-f384-4935-818f-50e9d83d315f)
   
 
 ### EVMOS Revenue module
@@ -156,7 +181,7 @@ We have planned to add support for the revenue module. When creating an NFT coll
 
   
 
-### EVMOS Direct Link
+### EVMOS Direct Links
 
   
 
