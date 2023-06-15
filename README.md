@@ -179,10 +179,18 @@ Our experience developing on Evmos has been a mixed one. On the positive side, w
 
 2.  **Streamline local node deployment:** Unfortunately, we encountered difficulties when attempting to deploy a local node due to private repositories not yet public, which hampered the efficiency of our testing process. However, we received valuable assistance from Vlad, who helped us resolve the issues we encountered. In the future, incorporating the ability to create a local node within the Evmos ecosystem would greatly enhance the development workflow.
 
+3. **Restructure/Refactor documentation:** As developers we know how fast things may change over time, and how difficult it is to keep everything up to date. Over time things that were right may have changed or evolved, and are now not totally acurate. Also, links can change frequently. We've detected a few broken links (we've pushed some pull requests when we found the actual new link) and outdated documentation. I'd recommend once changes are expected to be less frequent to re-read the whole docs and refactor them with the new functionallities.
+Some examples:
+	1. EVMOS CLI: https://docs.evmos.org/protocol/evmos-cli Right now these instructions are private (e.g. https://github.com/evmos/precompiles). I would suggest here to have an "open" branch where everyone can work according to the docs, and a working branch for the devs.
+	2. Precompiles documentation: Since the final version it is not live yet, it is easy to have outdated documentation as it evolves everyday. For instance, going to https://docs.evmos.org/develop/smart-contracts/evm-extensions there is no information that some extensions are only working on testnet, or even inside the extension documentation itself (https://docs.evmos.org/develop/smart-contracts/evm-extensions/staking). Or at https://docs.evmos.org/develop/smart-contracts/evm-extensions/distribution#grant-approval-for-the-desired-messages the approval changed according to this (https://hackmd.io/@IxayqCElSpezkdDym5Vtrw/Sk_nDyDD3) but is not yet reflected. On the bright side, the github repo is well structured and well documented. 
+	3. Empty section: https://docs.evmos.org/develop/testnet/auditing
+
+
   
 
-Additionally, on behalf of the NFTs2Me team, we recommend changing the default scan on Chainlist ([https://chainlist.org/chain/9001](https://chainlist.org/chain/9001) and [https://chainlist.org/chain/9000](https://chainlist.org/chain/9000)) from `evm.evmos.dev` to `escan.live`. As many users add chains on Chainlist, this modification would enable them to conveniently view their transactions from Metamask or their wallets once they are added to the platform.
+Additionally, on behalf of the NFTs2Me team, we recommend changing the default scan on Chainlist ([https://chainlist.org/chain/9001](https://chainlist.org/chain/9001) and [https://chainlist.org/chain/9000](https://chainlist.org/chain/9000)) from `evm.evmos.dev` to `escan.live`. As many users add chains on Chainlist (and is even linked here: https://docs.evmos.org/develop/testnet), this modification would enable them to conveniently view their transactions from Metamask or their wallets once they are added to the platform.
 
+We hope this information can be useful. This information has also been sent using the [Developer Onboarding Survey](https://docs.google.com/forms/d/e/1FAIpQLSfeuLtcnMX16gW0CIiSGgxFdAhdNgBU3VETZIShJRj6YvAFdA/viewform).
   
 
 ## The future of NFTs2Me
