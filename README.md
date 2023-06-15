@@ -4,15 +4,12 @@
 Our goal is to make the process of creating, deploying, and managing your NFT collections as simple as possible, while providing advanced and unique features on EVMOS.
 
   
-  
-
 ## What is NFTs2Me?
 
 **[NFTs2Me](https://nfts2me.com/)** is a user-friendly comprehensive platform to create, deploy and manage your NFT collection and community, **100% free** with advanced functionalities. It embraces the three big pillars of the NFT life cycle: creation, deployment, and administration of the contract and the community, empowering NFT creators.
 
 ![nfts2me home](https://github.com/nfts2me/evmos-buidl/assets/109629895/d2b401a3-b53d-48c9-b08a-bc3e6daec859)
 
-  
 
 The **creation** pillar allows users to create their own NFTs artwork using a simple and user-friendly interface. Users can upload their own artwork or other digital assets or use our builtin generative art tool, and we'll guide them through the process of creating the metadata, defining its rarity, and uploading the collection to IPFS (a decentralized immutable file system) for free.
 
@@ -28,7 +25,10 @@ The **administration** pillar focuses on the management of collection including 
 
 Let's talk about some of this fantastic features that make NFTs2Me different.
 
-  
+## Demo Video
+
+[![Youtube](https://github.com/nfts2me/evmos-buidl/assets/472079/0471591a-2266-4b16-80f2-37f7af0f40fc)](https://www.youtube.com/watch?v=eIXwbxFA-u4 "Demo Video")
+[https://www.youtube.com/watch?v=eIXwbxFA-u4](https://www.youtube.com/watch?v=eIXwbxFA-u4)
 
 ## What makes NFTs2Me different?
 
