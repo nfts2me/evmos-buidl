@@ -103,7 +103,7 @@ Free IPFS-hosting, soulbound tokens, NFT holder snapshots, automatic logo and ba
 
 ### Ecosystem partnerships
 
-We believe that integrating with the ecosystem of a blockchain is what makes it big and useful. At the time of writting this README buidl proposal, we are talking with the devs from **Forge** DEX to fully integrate the **anypayments** feature, so the integration is not fully live yet.
+We believe that integrating with the ecosystem of a blockchain is what makes it big and useful. At the time of writting this README buidl proposal, we are talking with the devs from **Forge Trade** DEX to fully integrate the **anypayments** feature, so the integration is not fully live yet.
 
 It will allow letting the users to pay in any currency! Once fully integrated with Forge, the **any-payment** solution will allow users to pay the minting price using any ERC-20 or native coin in just one transaction. No intermediary swaps require and offering the best price for the user. However, the owner of the collection will receive the payment in the set currency. For example, the owner can set the collection price to 100 USDC per NFT. The user will be able to pay using EVMOS, COSMOS, DAI... but the owner will receive 100 USDC per every sold NFT.
 
@@ -129,7 +129,7 @@ We have planned to add support for the revenue module. When creating an NFT coll
 
 ### EVMOS Direct Links
 
-NFTs2Me is deployed both on Mainnet and Testnet. We going to [https://nfts2me.com/app/evmos/](https://nfts2me.com/app/evmos/) or [https://nfts2me.com/app/evmos-testnet/](https://nfts2me.com/app/evmos-testnet/), it will ask you to swap the current connected network to EVMOS (or EVMOS testnet) if you are not already connected, and also add the network if you don't have it already added.
+NFTs2Me is deployed both on Mainnet and Testnet. When going to [https://nfts2me.com/app/evmos/](https://nfts2me.com/app/evmos/) or [https://nfts2me.com/app/evmos-testnet/](https://nfts2me.com/app/evmos-testnet/), it will ask you to swap the current connected network to EVMOS (or EVMOS testnet) if you are not already connected, and also add the network if you don't have it already added.
 
   
 ### Experience developing on Evmos
