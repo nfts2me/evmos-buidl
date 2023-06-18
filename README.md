@@ -107,6 +107,11 @@ We believe that integrating with the ecosystem of a blockchain is what makes it 
 
 It will allow letting the users to pay in any currency! Once fully integrated with Forge, the **any-payment** solution will allow users to pay the minting price using any ERC-20 or native coin in just one transaction. No intermediary swaps require and offering the best price for the user. However, the owner of the collection will receive the payment in the set currency. For example, the owner can set the collection price to 100 USDC per NFT. The user will be able to pay using EVMOS, COSMOS, DAI... but the owner will receive 100 USDC per every sold NFT.
 
+### Integration announcement
+
+We've just officially announced our project integration within the EVMOS ecosystem, both at Twitter ([https://twitter.com/nfts2me/status/1670380232799297539](https://twitter.com/nfts2me/status/1670380232799297539)) and Instagram ([https://www.instagram.com/p/CtoQnPioXAX/](https://www.instagram.com/p/CtoQnPioXAX/)).
+
+
 ### EVMOS ERC-20 module
 
 At NFTs2Me we leverages on some of the EVMOS primitives like Evmos’ ERC-20 module, which allows NFTs2Me to bridge EVM users to Cosmos ecosystem.
@@ -121,8 +126,8 @@ More info at: https://medium.com/evmos/introducing-evmos-erc20-module-f40a61e052
 
 We've integrated with [ESCAN](https://escan.live/) and verified our contracts (links below). Also, we've been helping to Victor from ESCAN to add a feature to allow minimal proxies to be automatically verified as well as 'paris' compilations support. Victor added both features in an incredible time! Kudos!
 
-
 ![escan-live](https://github.com/nfts2me/evmos-buidl/assets/109629895/c2f9c0dc-f384-4935-818f-50e9d83d315f)
+
 ### EVMOS Revenue module
 
 We have planned to add support for the revenue module. When creating an NFT collection, the collection owner will be entitled to register its collection on "dApp Store Contract Registration". Instead of keeping for us, 100% of the accrued revenue with go to the owner. That's a great way to, for instance, earn revenue with free minting NFT collections.
